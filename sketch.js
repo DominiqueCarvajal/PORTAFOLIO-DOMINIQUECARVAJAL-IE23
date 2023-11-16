@@ -147,7 +147,7 @@ class RectanguloInicial {
     this.ancho = 0; // Ancho inicial
     this.alto = 60; // Altura fija
     this.velocidad = 2; // Velocidad de expansión
-    this.texto = "➣ PORTAFOLIO DE DOMINIQUE CARVAJAL GONZALEZ "; // Texto a mostrar
+    this.texto = "➣ PORTAFOLIO: ENTRELAZANDO HILOS DIGITALES "; // Texto a mostrar
     this.franjaExtendida = false; // Variable para controlar el estado de la franja
   }
 
